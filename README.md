@@ -1,13 +1,20 @@
 ###
 <h1 align="center">Hi there ,I am Shubham 👋</h1>
-<hr>
+
 <section>
   <p align="center">  I am a Web Developer. </p>
+    <h2 align="center">
+    About Me
+   </h2>
+  <p >I am a final year Engineering  student studing Information Technology. I like problem solving and I am active on leetcode and codechef.
+    Also I am an aspiring web developer , proficient with JavaScript, Node.js and Express.js.<br/><br/>
+    My aim is to have a career in an organization which can give me a chance to  implement my knowledge of web development for my individual growth as well as for the organization's beneficialness.   
+  </p>
 </section>
 
-<h3 align="center">
+<h2 align="center">
   🧰 Languages and Tools:
-</h3>
+</h2>
 <hr>
 <p align="center">
     <img src="https://camo.githubusercontent.com/3e1012ffd12fb3c5a64eb49efb221ba71e9c84bb12f64b2a230351ae5a831da3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432d3030353939433f7374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d7768697465" alt="c" height="40" style="vertical-align:top; margin:4px">
