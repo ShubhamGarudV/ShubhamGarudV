@@ -30,9 +30,9 @@
 
   
 </p>
-<h3 align="center">
+<h2>
   Github Stats
-</h3>
+</h2>
 <hr>
 <section align="center">
  
@@ -45,7 +45,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamGarudV)](https://github.com/ShubhamGarudV/github-readme-stats)
 
 </section>
-
+<h2 align="center">
+ Coding Profiles
+</h2>
+<hr>
 <!--
 **ShubhamGarudV/ShubhamGarudV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
