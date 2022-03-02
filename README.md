@@ -50,7 +50,7 @@
 </h2>
 <hr>
 <section align="center">
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=shubhamgarud20005&theme=default)
+  <a href="https://leetcode.com/shubhamgarud20005/">Leetcode</a>
 </section>
 <!--
 **ShubhamGarudV/ShubhamGarudV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
