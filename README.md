@@ -1,6 +1,7 @@
 ### Hi there ,I am Shubham 👋
 
- I am a Web Developer woman_technologist .
+ I am a Web Developer.
+ 
 [![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=ShubhamGarudV&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/ShubhamGarudV/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamGarudV)](https://github.com/ShubhamGarudV/github-readme-stats)
