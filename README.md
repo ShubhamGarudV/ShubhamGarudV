@@ -1,10 +1,9 @@
 ###
 <h1 align="center">Hi there ,I am Shubham 👋</h1>
 <hr>
-<p align="center">  I am a Web Developer. </p>
-
- 
-[![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=ShubhamGarudV&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/ShubhamGarudV/github-readme-stats)
+<section>
+  <p align="center">  I am a Web Developer. </p>
+</section>
 
 <h3 align="center">
   🧰 Languages and Tools:
@@ -31,8 +30,18 @@
 
   
 </p>
+<h3 align="center">
+  Github Stats
+</h3>
+<hr>
+<section align="center">
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamGarudV)](https://github.com/ShubhamGarudV/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamGarudV)](https://github.com/ShubhamGarudV/github-readme-stats)
+ 
+[![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=ShubhamGarudV&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/ShubhamGarudV/github-readme-stats)
+
+</section>
+
 <!--
 **ShubhamGarudV/ShubhamGarudV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
