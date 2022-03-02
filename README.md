@@ -4,6 +4,16 @@
  
 [![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=ShubhamGarudV&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/ShubhamGarudV/github-readme-stats)
 
+## 🧰 Languages and Tools:
+<p align="center">
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c++/c++.png" alt="c++" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/expressjs/expressjs.png" alt="expressjs" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/HTML/html.png" alt="html" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+</p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamGarudV)](https://github.com/ShubhamGarudV/github-readme-stats)
 <!--
 **ShubhamGarudV/ShubhamGarudV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
