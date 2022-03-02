@@ -35,7 +35,9 @@
 </h3>
 <hr>
 <section align="center">
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamGarudV)](https://github.com/ShubhamGarudV/github-readme-stats)
+ <div>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamGarudV)](https://github.com/ShubhamGarudV/github-readme-stats)
+ </div>
 
  
 [![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=ShubhamGarudV&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/ShubhamGarudV/github-readme-stats)
