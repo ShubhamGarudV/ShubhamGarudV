@@ -8,7 +8,7 @@
    </h2>
   <p >I am a final year Engineering  student studing Information Technology. I like problem solving and I am active on leetcode and codechef.
     Also I am an aspiring web developer , proficient with JavaScript, Node.js and Express.js.<br/><br/>
-    My aim is to have a career in an organization which can give me a chance to  implement my knowledge of web development for my individual growth as well as for the organization's beneficialness.   
+    My aim is to have a career in an organization which can give me a chance to  implement my knowledge of web development for my  as well as organization's growth .   
   </p>
 </section>
 
